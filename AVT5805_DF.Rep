@@ -1,0 +1,19 @@
+Export log for : AVT5805_DF.Rep
+AddingPadStyle (Default)
+AddingPadStyle EF102X65TOP1
+AddingPadStyle EF75X24TOP1
+AddingPadStyle P:EX20Y20D151
+AddingPadStyle P:EX41Y41D411
+AddingPadStyle P:EX53Y53D531
+AddingPadStyle P:RRX154Y94D01
+AddingPadStyle EF78X22TOP1
+AddingPadStyle P:EX39Y39D281
+AddingPadStyle P:RRX39Y39D281
+AddingPadStyle EF35X67TOP1
+AddingPadStyle EF83X173TOP1
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding PatternDef DTSM31NB
+Adding CompDef DTSM31NB
+ 
+EndLog
